@@ -1,0 +1,10 @@
+DAEMONS V6 — BROWSER CHECK REPORT
+- Syntax: JavaScript parsed successfully.
+- Started new game and selected the starter; verified prologue rescue fight launches as a chosen dialog action.
+- Desktop 1280x800: rendered and played actual keyboard combat inputs without JavaScript errors.
+- Tested training timing drill, royal relic recovery, weakened wild capture; a new Daemon was added to party.
+- All 10 castle battle/reward chains and final Worldrender encounter passed using state-assisted wins (NOT uninterrupted player run).
+- Confirmed all 10 gear pieces enter the saved state and final victory state is set.
+- Portrait 390x844 and landscape 844x390: prologue, battle screens, world screens and visible mobile D-pad controls rendered without JavaScript errors.
+- Tested 110 sprites from retained V5 safe-cropped 14-frame sheets via browser battle render; individual hand-drawn animation cycles remain an art limitation.
+- Did NOT test on physical iOS/Android hardware; actual GitHub Pages service-worker install and full normal-length balance have not been verified.

@@ -1,0 +1,26 @@
+{
+  "name": "DAEMONS: Riftbound V6 — Castles of the Fractured World",
+  "short_name": "Riftbound",
+  "description": "A ten-town monster collecting RPG with real-time fighting, castle champions, legendary gear, training halls, necklace captures and a portal finale.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e1b2a",
+  "theme_color": "#101929",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "./index.html"
+}
